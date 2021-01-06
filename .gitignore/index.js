@@ -113,4 +113,4 @@ Client.on("message", message => {
 })
 
 
-Client.login("NzMzMzM2Mjc2MjA3NDAzMDA4.XxBqoA.UouN0UW9h1XV1c2Np7ZI9DZVjJ4");
+Client.login("process.env.TOKEN");
